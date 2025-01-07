@@ -1,4 +1,4 @@
-# Free Template by Postly.live (https://postly.live)
+# Free Template by Postly.live ✌️
 
 ![Screenshot of the site](https://raw.githubusercontent.com/indieceo/postly-template/main/screenshot.png)
 
@@ -79,6 +79,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Open a pull request.
 
 ---
-Check out my website: [Postly.live](https://postly.live)
-
+      
 Feel free to reach out if you have any questions or need assistance!!
+
+Check out my website: [Postly.live](https://postly.live)
