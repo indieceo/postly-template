@@ -59,10 +59,10 @@ const Hero = () => {
             <Button size="lg">Get Started</Button>
             <Link
               target="_blank"
-              href="https://postly.live"
+              href="https://Posthyve.com"
               className="hover:underline"
             >
-              Go to Postly.live 
+              Go to Posthyve.com 
             </Link>
           </motion.div>
         </motion.div>

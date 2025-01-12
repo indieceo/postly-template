@@ -1,7 +1,8 @@
-# Free Template by Postly.live ✌️
+# Free Template by Posthyve.com ✌️
 
 ![Screenshot of the site](https://raw.githubusercontent.com/indieceo/postly-template/main/screenshot.png)
 
+if you want to use this template, please give me a star ⭐️
 
 This landing page is built using **Next.js**, **ShadCN UI**, and **Framer Motion**. This template is free for everyone to use and customize according to their needs.
 
@@ -79,7 +80,8 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Open a pull request.
 
 ---
-      
+Check out my website: [Posthyve.com](https://Posthyve.com)
+     
 Feel free to reach out if you have any questions or need assistance!!
+my X account: [@indieceo](https://x.com/indieceo)
 
-Check out my website: [Postly.live](https://postly.live)

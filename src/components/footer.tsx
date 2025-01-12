@@ -51,8 +51,8 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center text-sm">
           <p>
             Template by{" "}
-            <Link target="_blank" href="https://postly.live">
-              Postly.live
+            <Link target="_blank" href="https://Posthyve.com">
+              Posthyve.com
             </Link>{" "}
           </p>
           <div className="flex space-x-4 mt-2 md:mt-0">

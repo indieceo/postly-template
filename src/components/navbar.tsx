@@ -42,10 +42,10 @@ const Navbar = () => {
         <div className="flex items-center space-x-4">
           <Link
             target="_blank"
-            href="https://postly.live"
+            href="https://Posthyve.com"
             className="font-outfit text-lg dark:text-white text-slate-800 hover:underline"
           >
-            Go to Postly.live 
+            Go to Posthyve.com 
           </Link>
 
           <button onClick={() => setTheme(theme == "dark" ? "light" : "dark")}>
